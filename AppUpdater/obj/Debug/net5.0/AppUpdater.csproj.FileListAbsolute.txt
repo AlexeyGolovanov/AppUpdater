@@ -1,0 +1,12 @@
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\bin\Debug\net5.0\AppUpdater.deps.json
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\bin\Debug\net5.0\AppUpdater.dll
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\bin\Debug\net5.0\ref\AppUpdater.dll
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\bin\Debug\net5.0\AppUpdater.pdb
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\obj\Debug\net5.0\AppUpdater.csproj.AssemblyReference.cache
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\obj\Debug\net5.0\AppUpdater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\obj\Debug\net5.0\AppUpdater.AssemblyInfoInputs.cache
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\obj\Debug\net5.0\AppUpdater.AssemblyInfo.cs
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\obj\Debug\net5.0\AppUpdater.csproj.CoreCompileInputs.cache
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\obj\Debug\net5.0\AppUpdater.dll
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\obj\Debug\net5.0\ref\AppUpdater.dll
+C:\Users\golovanov_alexey\source\repos\AppUpdater\AppUpdater\obj\Debug\net5.0\AppUpdater.pdb
